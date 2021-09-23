@@ -1,7 +1,10 @@
-# LaTeX-beamer-Hokie
-If you are into using the [LaTeX Beamer class](http://en.wikipedia.org/wiki/Beamer_%28LaTeX%29) for creating your presentations, and you are a Hokie, then this theme is for you!
+# LaTeX-beamer-Hoya
 
-This is a LaTeX Beamer class style that uses the official VT color palette (i.e., the one used throughout VT's websites), includes the VT logo, and provides example code for Beamer class presentations. 
+This README was introduced by bhilburn, and the entire repo is based on his LaTeX-Beamer-Hokie repo. This below was authored by bhilburn and has been modified to fit Georgetown rather than Virginia Tech. Some file names presently retain references to VT.
+
+If you are into using the [LaTeX Beamer class](http://en.wikipedia.org/wiki/Beamer_%28LaTeX%29) for creating your presentations, and you are a Hoya, then this theme is for you!
+
+This is a LaTeX Beamer class style that uses the official GT color palette (i.e., the one used throughout GT's websites), includes the GT logo, and provides example code for Beamer class presentations. 
 
 This theme can be used for presentations given internally, or for slides presented at conferences. A number of students have used this theme for their thesis / dissertation defense.
 
@@ -67,7 +70,7 @@ somewhat strange if you DON'T use them.  Make sure, for example, that you set
 your organization with the institution command - otherwise, there will be an 
 empty set of parenthesis at the bottom of your slides:
 
-    \institute{Virginia Tech}
+    \institute{Georgetown University}
 
 Also, remember that you can easily change the default font of your slides. I've 
 found that things look awesome with the Palatino font:
