@@ -1,6 +1,6 @@
 # LaTeX-beamer-Hoya
 
-This README was introduced by bhilburn, and the entire repo is based on the LaTeX-Beamer-Hokie repo. The below was authored by bhilburn and has been modified to fit Georgetown rather than Virginia Tech. Some file names presently retain references to VT.
+This README was introduced by bhilburn, and the entire repo is based on the [LaTeX-Beamer-Hokie repo](https://github.com/bhilburn/LaTeX-beamer-Hokie). The below was authored by bhilburn and has been modified to fit Georgetown rather than Virginia Tech. Some file names presently retain references to VT.
 
 If you are into using the [LaTeX Beamer class](http://en.wikipedia.org/wiki/Beamer_%28LaTeX%29) for creating your presentations, and you are a Hoya, then this theme is for you!
 
